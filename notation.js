@@ -9,7 +9,7 @@ const person = {
 // dot notation
 const prof1 = person.profession;
 // console.log(prof1);
-// bracket notation 
+// bracket notation (3 ways acces property)
 const prof2 = person['age'];
 // console.log(prof2);
 const prof = 'address';
